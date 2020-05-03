@@ -1,0 +1,54 @@
+#app {
+    font-family: 'Avenir', Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-align: center;
+    color: #2c3e50;
+    width: 100%;
+   }
+
+#inspire {
+font-family: 'Avenir', Helvetica, Arial, sans-serif;
+}
+.container.fill-height {
+align-items: normal;
+}
+a.side_bar_link {
+text-decoration: none;
+}
+.card__title--primary, .card__text {
+text-align: left;
+}
+.card {
+height: 100% !important;
+}
+
+.swal-footer{
+    text-align: center !important;
+}
+
+#acceptBtn {
+    color: white !important;
+    text-align: center;
+}
+
+.btnBox {
+    text-align: center !important;
+}
+
+
+  #user_email, #register_btn, #login_btn, #logout_btn {
+    background-color: transparent !important;
+  }
+
+
+  .v-card:not(.v-sheet--tile):not(.v-card--shaped) {
+    min-height: 250px !important;
+}
+
+.v-card__title {
+  font-size: 12px !important;
+}
+.headline {
+  font-size: 25px;
+}
